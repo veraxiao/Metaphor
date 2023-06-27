@@ -1,0 +1,14 @@
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\bin\Debug\RfidUdp.exe.config
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\bin\Debug\RfidUdp.exe
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\bin\Debug\RfidUdp.pdb
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\obj\Debug\RfidUdp.csproj.CoreCompileInputs.cache
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\obj\Debug\RfidUdp.exe
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\obj\Debug\RfidUdp.pdb
+C:\Users\Aleksi\source\repos\RfidUdp\RfidUdp\obj\Debug\RfidUdp.csprojAssemblyReference.cache
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\bin\Debug\RfidUdp.exe.config
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\bin\Debug\RfidUdp.exe
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\bin\Debug\RfidUdp.pdb
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\obj\Debug\RfidUdp.csproj.AssemblyReference.cache
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\obj\Debug\RfidUdp.csproj.CoreCompileInputs.cache
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\obj\Debug\RfidUdp.exe
+D:\Unity\Metaphor\RFIDServerProgram\RfidUdp\obj\Debug\RfidUdp.pdb
